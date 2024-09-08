@@ -11,7 +11,7 @@
 	font-sixe: 1.2rem;
 	font-weight: bold;
 }
-form input{
+#signup-form input{
 	width:100%;
 	border:1px solid #ccc;
 	padding:0.5rem;
