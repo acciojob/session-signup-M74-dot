@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
-form{
+#signup-form{
 	background-color:#f8f9fa;
 	border: 1px solid #ccc;
 	border-radius: 4px;
 	padding:2rem;
 	width:300px;
 }
-form label{
+#signup-form label{
 	margin-bottom: 0.5rem;
 	font-sixe: 1.2rem;
 	font-weight: bold;
